@@ -5,8 +5,6 @@ This project provides a Python script that utilizes OpenCV to segment an input i
 
 ![1 (3)](https://github.com/user-attachments/assets/18c7dc38-ec9c-413c-9c00-8095685d0d78)
 
-Hough Transform for line detection
-![divperiode](https://github.com/user-attachments/assets/0b35d28b-1cc9-49e7-bfea-cd27fa09ddcb)
 
 
 
